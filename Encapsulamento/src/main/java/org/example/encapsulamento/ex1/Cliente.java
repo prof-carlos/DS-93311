@@ -1,4 +1,4 @@
-package org.example;
+package org.example.encapsulamento.ex1;
 
 public class Cliente {
     // Atributos da classe (variáveis).
